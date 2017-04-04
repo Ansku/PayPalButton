@@ -1,0 +1,7 @@
+*/.classpath
+*/.settings
+.settings
+*/.project
+.project
+*/target
+**/styles.scss.cache
